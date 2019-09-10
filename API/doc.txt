@@ -1,0 +1,24 @@
+// DOCUMENTATION //
+
+
+-------------------------------------------------
+// INDEX API //
+url: riffaldy.com/region_db/API/index.php
+
+request : {}
+result : {"region":[{
+					"name":"val",
+					"url":"val",
+					"description":"val",
+					"points":[{
+							"name":"val",
+							"desciption":"val",
+							"latitude":"val",
+							"longitude":"val",
+						}],
+					}],
+		"info":"val"
+		"tutorial":"val"
+		"isSuccess":"1"
+		}
+-------------------------------------------------
