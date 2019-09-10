@@ -1,6 +1,6 @@
 <?php
 include "lib/koneksi.php";
-//Ganti identitas web
+
 include "master/config/site_id.php";
 include "master/config/timezone.php";
 error_reporting(0);
